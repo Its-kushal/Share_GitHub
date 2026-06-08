@@ -1,0 +1,16 @@
+1101132490780 | Amit Sharma | Defective/Burnt Meter | Commercial | Flat 402, Green Glen Layout, Bangalore | 8893380632 | Resolved
+1101132490781 | Priya Patel | Voltage Fluctuation | Industrial | Plot 12, Sector 15, Rohini, New Delhi | 7582678214 | Resolved
+1101132490782 | Rajesh Kumar | Delay in New Connection | Commercial | House 88, Anna Nagar, Chennai | 8217105417 | Active
+1101132490783 | Sneha Reddy | Smart Meter Sync Error | Industrial | 789 Willow Drive, Metro City | 6508172819 | Active
+1101132490784 | Vikram Singh | Wrong Tariff Category Applied | Industrial | 102 Park Avenue, Downtown | 6884296020 | Resolved
+1101132490785 | Ananya Das | High Bill Amount | Agricultural | Street No. 5, Gachibowli, Hyderabad | 7018015657 | Resolved
+1101132490786 | Rohan Mehta | High Bill Amount | Residential | Block C, Salt Lake, Kolkata | 9770852579 | Resolved
+1101132490787 | Deepa Joshi | Defective/Burnt Meter | Agricultural | 456 Oak Lane, Suburbia | 7949071677 | Resolved
+1101132490788 | Sanjay Verma | Smart Meter Sync Error | Industrial | Village Rampur, District Karnal | 7264536557 | Resolved
+1101132490789 | Kriti Malhotra | Wrong Tariff Category Applied | Industrial | Industrial Area Phase 2, Mohali | 6539271537 | Resolved
+1101132490790 | John Doe | Smart Meter Sync Error | Industrial | 12 Pine Street, Riverside | 8070909863 | Active
+1101132490791 | Jane Smith | Transformer Sparking | Industrial | Flat 1A, Sea Breeze Apartments, Mumbai | 6040492904 | Resolved
+1101132490792 | Michael Chang | Smart Meter Sync Error | Commercial | Plot 45, VIP Road, Zirakpur | 9752149618 | Active
+1101132490793 | Sarah Connor | Voltage Fluctuation | Commercial | Shop No. 4, Main Market, Pune | 9502409207 | Active
+1101132490794 | David Miller | Transformer Sparking | Residential | House 234, Malviya Nagar, Jaipur | 9141203168 | Active
+1101132490795 | Robert Taylor | Frequent Power Outages | Agricultural | Sector 4, Panchkula | 7981228238 | Resolved
